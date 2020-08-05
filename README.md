@@ -10,5 +10,5 @@
 
  <a href="https://www.medium.com/">
          <img alt="Medium" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b1.png"
-         width=150" height="70">
+         >
       </a>
