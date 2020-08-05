@@ -8,12 +8,12 @@
 <b>I'm a College student pursuing Engineering in CS, i develop apps with <a href="https://flutter.dev/"> FLUTTER</a> and javascript & most of the time <a href="https://www.behance.net/afrozshaikh_">Designing</a> them.Checkout my repositories to know more. And while ou're there don't forget to star them 🌟</b>
 
 
- <a href="https://www.medium.com/">
+ <a href="https://medium.com/@afrozshaikh_">
          <img alt="Medium" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b1.png"
          >
       </a>
 
- <a href="https://www.Behance.com/afrozshaikh_">
+ <a href="https://www.behance.net/afrozshaikh_">
          <img alt="Behance" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b2.png"
          >
       </a>
