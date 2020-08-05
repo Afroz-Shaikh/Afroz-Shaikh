@@ -12,3 +12,8 @@
          <img alt="Medium" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b1.png"
          >
       </a>
+
+ <a href="https://www.Behance.com/afrozshaikh_">
+         <img alt="Behance" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b2.png"
+         >
+      </a>
