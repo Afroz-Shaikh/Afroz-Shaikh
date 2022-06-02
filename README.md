@@ -9,12 +9,12 @@
 
 
  <a href="https://medium.com/@afrozshaikh_">
-         <img alt="Medium" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b1.png"
+         <img alt="Medium Afroz-Shaikh" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b1.png"
          >
       </a>
 
  <a href="https://www.behance.net/afrozshaikh_">
-         <img alt="Behance" src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b2.png"
+         <img alt="Behance " src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/b2.png"
          >
       </a>
 
