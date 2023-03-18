@@ -1,5 +1,5 @@
 
-# Hi there,I'm Afroz Shaikh 👋💻
+# Hi there,I'm Afroz Shaikh 👋
 
 
  <img src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/bg.png" alt="s1" width="1000">
