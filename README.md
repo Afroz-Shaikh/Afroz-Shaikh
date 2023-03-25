@@ -2,7 +2,7 @@
 # Hi there,I'm Afroz Shaikh 👋
 
 
- <img src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/afroz.png" alt="s1" width="1000">
+ <img src="https://github.com/Afroz-Shaikh/Afroz-Shaikh/blob/master/icons/afroz.png" alt="s1" width="800">
 
 <!-- # About🤔
 <b>I'm a College student pursuing Engineering in CS, i develop apps with <a href="https://flutter.dev/"> FLUTTER</a>  & spend most of the time <a href="https://www.behance.net/afrozshaikh_">Designing and Prototyping apps. </a> Checkout my repositories to know more. And while you're there don't forget to star them 🌟</b> -->
